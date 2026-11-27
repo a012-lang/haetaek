@@ -1,0 +1,6 @@
+{
+  "name": "청년모아 - 청년 정책 통합 정보 및 AI 지원 플랫폼",
+  "description": "정부24·보조금24·복지로·온통청년의 청년 혜택을 한곳에서 조회하고, AI 신청 도우미로 지원 자격과 제출 서류를 안내받는 통합 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
